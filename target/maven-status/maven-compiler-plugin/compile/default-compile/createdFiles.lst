@@ -1,0 +1,5 @@
+Vista\Main.class
+Modelo\Clases\Participante.class
+Controlador\ControladorParticipante.class
+Modelo\Persistencia\ConexionBD.class
+Modelo\Persistencia\Operaciones.class
