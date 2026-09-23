@@ -1,3 +1,5 @@
+#AVISO: LAS IMAGENES ESTAN CARGADAS EN LA CARPETA README.md EN LA CARPETA IMAGES
+
 # Reto Evaluativo: Sistema de Inscripción a Webinar Corporativo
 
 ## Descripción
